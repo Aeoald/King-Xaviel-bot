@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# Updated Apr 23#!/usr/bin/env python3
 """
 Telegram Spam Filter Bot for Railway
 - Auto-accepts join requests
